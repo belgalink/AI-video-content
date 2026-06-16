@@ -48,3 +48,15 @@ contact-sheets/lead-sheet-A-angles.png
 contact-sheets/lead-sheet-B-expressies.png
 contact-sheets/lead-master-contact-sheet.png
 ```
+
+## Outfit-sheets (`outfits/`)
+Per outfit een gestandaardiseerde **10-shot template** (neutraal grijs, identiteit gelockt op de
+goedgekeurde face bible, kledij = de echte outfit-foto's, opgeslagen als hoge-kwaliteit JPG):
+O1 close portret · O2 medium armen-langs · O3 medium armen-gekruist · O4/O5 medium 3/4 links+rechts ·
+O6/O7 profiel links+rechts · O8 full body frontaal · O9/O10 full body 3/4 links+rechts.
+
+- ✅ `outfits/01-blauw-tshirt/` — blauw/navy **T-shirt** (uit `Blauwe_shirt.zip`).
+- ⬜ blauwe pul · zwarte pul · groene pul · wit hemd — volgen, één voor één.
+
+> Mapnamen volgen de aangeleverde zip-bestanden. Let op: `Blauwe_shirt.zip` = een blauw **T-shirt**
+> (niet een overhemd); het enige echte overhemd is de witte set (`Wit_Hemd.zip`).

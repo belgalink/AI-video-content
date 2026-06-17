@@ -37,3 +37,28 @@ blauw t-shirt · wit hemd · blauwe pul · zwarte pul · groene pul
 
 ---
 Kort: **sheets als referentie + Nano Banana Pro + bovenstaande prompt → cinematic still**, daarna **Kling pro** voor beweging, en **extern** voor jouw stem.
+
+---
+
+## Upgrades uit de officiële Higgsfield skills-repo (higgsfield-ai/skills)
+
+**Prompt-skelet (officieel):**
+`subject + setting + style → lens (35/50/85mm) + hoek + camerabeweging → belichting (rim/backlight/neon) → medium (photograph/cinematic)`.
+Hou het **< ~200 tokens** (te lang = vervorming). Gebruik **positieve** bewoording: *"tack sharp"* i.p.v. "no blur", *"uninhabited landscape"* i.p.v. "no people".
+
+**Video = ALLEEN beweging beschrijven:** bij image-to-video het stilstaande beeld NIET herbeschrijven — enkel de motion. Vocab: *"slow push in, camera slowly pulls back, dolly left, sweeping pan, subtle head turn, ambient motion."*
+
+**Modellen (echte CLI-ID's, bevestig met de catalog):**
+- Cinematic still: `soul_cinematic` (film-licht, ook **21:9**) of `cinema_studio_image_2_5` (tot 4K). Onze `nano_banana_pro` + sheets blijft top voor referentie-trouw.
+- Beweging/multi-shot video: `seedance_2_0` (4–15s, SOTA). Voor gezicht-trouw werkte **Kling pro** bij ons het best — beide bruikbaar.
+- Hero cinematic: `cinema_studio_video_3_0` of `google_veo_3_1` (let op: enkel **4/6/8s**, **16:9 of 9:16**).
+
+**Lip-sync (te hertesten — mogelijke unlock):** de repo stelt dat `seedance_2_0` + een **audio-rol** lip-synct naar JOUW audio (en NIET `generate-audio` gebruiken). Als dat in onze MCP echt zo werkt, kan jouw-stem-in-tool alsnog → apart valideren met je echte opname.
+
+**UGC via Marketing Studio:** modes `ugc`, `ugc_unboxing`, `product_review`, `ugc_how_to`, `ugc_virtual_try_on` + **hooks/settings** (hook = opening, wordt vóór de prompt geplakt). Teststrategie: eerst **4 hooks × 1 mode**, dan pas modes wisselen. Default shorts: **9:16, 720p, 15s**.
+
+**Virality Predictor (`brain_activity`):** score een afgewerkte short (piek-hook %, sustain %, aandacht-regio's) vóór posten; zwakke eerste seconde → hook + openingslijn hermaken. Lagere "Default Mode" = beter.
+
+**Scripts voor spraak:** ~**150 woorden/min** (60s ≈ 150 woorden), korte zinnen, natuurlijke pauzes, niet opvullen om de duur te halen.
+
+**Identiteit op schaal:** voor talking-head > 30s raadt de repo een getrainde **Soul** (`soul_cinematic`) aan, 8–12 gevarieerde foto's. Jij verkoos echter sheets-als-referentie (trouwere look) — dat houden we als standaard; Soul enkel als je lange talking-heads wil.

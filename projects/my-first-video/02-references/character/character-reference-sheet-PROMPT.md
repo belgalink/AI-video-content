@@ -89,7 +89,7 @@ actuele lijst. Kies er één. Vertel mij in één zin welk model en waarom, en g
 
 ## STEP 3 — Opslaan
 
-Map: `projects/my-first-video/02-references/character/bible/`
+Map: `projects/my-first-video/02-references/character/overzicht/`
 
 ```
 lead-A1-frontaal.png            lead-B1-neutraal.png         lead-C1-extreme-closeup.png   lead-D1-handen-rust.png
@@ -107,7 +107,7 @@ lead-A8-driekwart-achter.png
 Na elk blok één contact-sheet (panelen in een net raster, elk paneel onderaan gelabeld met
 de shotnaam in een strakke sans-serif). Daarna één **master contact sheet** met alles.
 
-Map: `projects/my-first-video/02-references/character/bible/contact-sheets/`
+Map: `projects/my-first-video/02-references/character/overzicht/contact-sheets/`
 - `lead-sheet-A-angles.png` (4×2)
 - `lead-sheet-B-expressies.png` (3×2)
 - `lead-sheet-C-afstanden.png` (4×2, laatste cel leeg)
@@ -125,8 +125,8 @@ Toon de contact sheets en bevestig:
 ---
 
 ### Productienoot
-- De neutrale grijze achtergrond is bewust: dit is de **technische reference-bible**, geen
+- De neutrale grijze achtergrond is bewust: dit is de **technische reference-overzicht**, geen
   finale content. Herkenbare settings (kantoor, bureau, natuurlijk licht) doen we later in de
   vídeo-prompts, niet hier — consistentie is hier koning.
-- Zodra deze bible is goedgekeurd, is dit de **vaste input** voor élke video-prompt: we
+- Zodra dit overzicht is goedgekeurd, is dit de **vaste input** voor élke video-prompt: we
   hergebruiken de juiste angle/expressie zodat je gezicht consistent blijft over alle clips.

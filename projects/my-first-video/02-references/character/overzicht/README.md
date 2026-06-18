@@ -1,4 +1,4 @@
-# Character Reference Bible — `lead` (Belgalink presentator)
+# Character Reference Overzicht — `lead` (Belgalink presentator)
 
 De identity-locked referentieset van de presentator, gegenereerd met Higgsfield.
 Dit is de **vaste input** voor élke latere video-prompt: hergebruik de juiste hoek/expressie
@@ -51,7 +51,7 @@ contact-sheets/lead-master-contact-sheet.png
 
 ## Outfit-sheets (`outfits/`)
 Per outfit een gestandaardiseerde **10-shot template** (neutraal grijs, identiteit gelockt op de
-goedgekeurde face bible, kledij = de echte outfit-foto's, opgeslagen als hoge-kwaliteit JPG):
+goedgekeurde face-overzicht, kledij = de echte outfit-foto's, opgeslagen als hoge-kwaliteit JPG):
 O1 close portret · O2 medium armen-langs · O3 medium armen-gekruist · O4/O5 medium 3/4 links+rechts ·
 O6/O7 profiel links+rechts · O8 full body frontaal · O9/O10 full body 3/4 links+rechts.
 

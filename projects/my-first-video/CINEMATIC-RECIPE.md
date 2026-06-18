@@ -62,3 +62,18 @@ Hou het **< ~200 tokens** (te lang = vervorming). Gebruik **positieve** bewoordi
 **Scripts voor spraak:** ~**150 woorden/min** (60s ≈ 150 woorden), korte zinnen, natuurlijke pauzes, niet opvullen om de duur te halen.
 
 **Identiteit op schaal:** voor talking-head > 30s raadt de repo een getrainde **Soul** (`soul_cinematic`) aan, 8–12 gevarieerde foto's. Jij verkoos echter sheets-als-referentie (trouwere look) — dat houden we als standaard; Soul enkel als je lange talking-heads wil.
+
+---
+
+## ⭐ CRUCIAAL — Gezicht 1:1 houden (face-anchor stap)
+
+**Probleem:** bij een scène/medium-full shot met een **klein gezicht** hertekent Nano (of elke generator) je gezicht naar een **wildvreemde lookalike**. Niet 1:1.
+
+**Oplossing — vaste 3-staps pijplijn:**
+1. **Scène/lichaam** → `nano_banana_pro` met je sheets als referentie (lichaam, outfit, stad, kader = top; gezicht mag nog afwijken).
+2. **Gezicht verankeren** → `seedream_v4_5` (face-anchored edit): voer de Nano-still in als beeld 1 + je **sheet-gezicht** (chest-up of close-up) als beeld 2, prompt: *"Edit ONLY the man's face to be an EXACT match of the reference person's face; keep body, clothing, pose, background and lighting identical."* → gezicht = jouw echte gezicht, rest ongemoeid.
+3. **Animeren** → `seedance_2_0` met de **gecorrigeerde still** als `start_image`. Seedance behoudt het gezicht van het startframe, dus de video houdt nu jouw echte gezicht.
+
+**Waarom dit werkt:** Seedance dreef het gezicht niet over de frames — het hield het startframe-gezicht consistent. Het startframe-gezicht was alleen fout. Fix het startframe met `seedream_v4_5` → de hele video klopt.
+
+⚠️ Voor een écht pixel-1:1 gezicht op bewegend beeld is de ultieme route nog steeds **externe face-swap** (per frame), net als externe lip-sync voor je stem. `seedream_v4_5` komt er in-tool het dichtst bij en is meestal voldoende.

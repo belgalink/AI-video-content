@@ -77,3 +77,19 @@ Hou het **< ~200 tokens** (te lang = vervorming). Gebruik **positieve** bewoordi
 **Waarom dit werkt:** Seedance dreef het gezicht niet over de frames — het hield het startframe-gezicht consistent. Het startframe-gezicht was alleen fout. Fix het startframe met `seedream_v4_5` → de hele video klopt.
 
 ⚠️ Voor een écht pixel-1:1 gezicht op bewegend beeld is de ultieme route nog steeds **externe face-swap** (per frame), net als externe lip-sync voor je stem. `seedream_v4_5` komt er in-tool het dichtst bij en is meestal voldoende.
+
+---
+
+## ⭐⭐ DEFINITIEVE "exact jij"-pijplijn (bevestigd)
+
+Twee dingen samen geven het beste resultaat:
+
+**A) Kader sheet-nabij houden.** Hoe groter + frontaler je gezicht in beeld, hoe exacter. Chest-up/medium = ✅ jij; wijd/klein gezicht = ⚠️ benadering (geen enkele methode redt een klein gezicht).
+
+**B) Echte-foto face-swap als identiteits-lock** (lokaal, InsightFace):
+- Geïnstalleerd: `pip install insightface onnxruntime opencv-python-headless`; model `inswapper_128.onnx` + `buffalo_l`.
+- Bron = **gemiddelde embedding** uit meerdere **échte** frontale foto's (uit je zip), niet de AI-sheet → trouwste identiteit.
+- Pas toe op de Nano-still, dan animeren met Seedance (start_image = geswapte still). Seedance behoudt het startframe-gezicht.
+
+**Volgorde:** Nano (sheet-nabij kader) → InsightFace face-swap (echte foto's) → Seedance animeren.
+**Grens:** `inswapper_128` is 128px en raakt het haar/hoofd niet → het is een sterke benadering, geen letterlijke pixel-1:1. Voor absolute 1:1: film echte beelden, of sheet-nabij kader waar het natief al klopt.

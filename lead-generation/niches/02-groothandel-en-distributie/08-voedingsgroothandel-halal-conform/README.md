@@ -1,6 +1,7 @@
 # Niche 18 — Voedingsgroothandel (halal-conform)
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Enkel halal-conforme segmenten (geen varken/alcohol); B2B-afnemers willen online bestellen.
@@ -35,3 +36,6 @@ Enkel halal-conforme segmenten (geen varken/alcohol); B2B-afnemers willen online
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

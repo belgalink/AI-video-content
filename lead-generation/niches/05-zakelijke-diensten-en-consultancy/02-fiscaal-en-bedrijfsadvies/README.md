@@ -1,6 +1,7 @@
 # Niche 42 — Fiscaal & bedrijfsadvies
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vertrouwensberoep; autoriteit-website + lead magnets (whitepapers) werken sterk.
@@ -35,3 +36,6 @@ Vertrouwensberoep; autoriteit-website + lead magnets (whitepapers) werken sterk.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

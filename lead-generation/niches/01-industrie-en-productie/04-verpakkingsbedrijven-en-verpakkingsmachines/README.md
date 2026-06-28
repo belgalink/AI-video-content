@@ -1,6 +1,7 @@
 # Niche 04 — Verpakkingsbedrijven & verpakkingsmachines
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Industriële niche met internationale klanten; professionele uitstraling weegt zwaar.
@@ -35,3 +36,6 @@ Industriële niche met internationale klanten; professionele uitstraling weegt z
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

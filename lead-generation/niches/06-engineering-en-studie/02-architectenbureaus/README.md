@@ -1,6 +1,7 @@
 # Niche 52 — Architectenbureaus
 
 **Categorie:** Engineering & studiebureaus
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Visueel werk dat online sterk converteert; portfolio + klantportaal lonen.
@@ -35,3 +36,6 @@ Visueel werk dat online sterk converteert; portfolio + klantportaal lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

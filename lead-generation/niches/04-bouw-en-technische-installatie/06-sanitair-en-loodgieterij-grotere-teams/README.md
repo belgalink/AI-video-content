@@ -1,6 +1,7 @@
 # Niche 30 — Sanitair & loodgieterij (grotere teams)
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vanaf 3-5 medewerkers; online afspraak/offerte verhoogt aanvragen meteen.
@@ -35,3 +36,6 @@ Vanaf 3-5 medewerkers; online afspraak/offerte verhoogt aanvragen meteen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 28 — Koeltechniek
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technische B2B-niche met servicecontracten; sterke fit voor interventiebeheer.
@@ -35,3 +36,6 @@ Technische B2B-niche met servicecontracten; sterke fit voor interventiebeheer.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

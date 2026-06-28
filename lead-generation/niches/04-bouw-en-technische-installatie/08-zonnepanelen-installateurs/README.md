@@ -1,6 +1,7 @@
 # Niche 32 — Zonnepanelen-installateurs
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Bestaande referentie; hoge concurrentie maakt sterke site + leadflow cruciaal.
@@ -35,3 +36,6 @@ Bestaande referentie; hoge concurrentie maakt sterke site + leadflow cruciaal.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

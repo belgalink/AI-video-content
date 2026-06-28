@@ -1,6 +1,7 @@
 # Niche 56 — Industriële ontwerp- & engineeringbureaus
 
 **Categorie:** Engineering & studiebureaus
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Hoogwaardige B2B-niche; cases en meertalige site versterken internationale positie.
@@ -35,3 +36,6 @@ Hoogwaardige B2B-niche; cases en meertalige site versterken internationale posit
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

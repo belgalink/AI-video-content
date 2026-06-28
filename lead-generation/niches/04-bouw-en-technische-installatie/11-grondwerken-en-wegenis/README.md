@@ -1,6 +1,7 @@
 # Niche 35 — Grondwerken & wegenis
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Projectaannemers; portfolio en aanvraagflow versterken B2B-positie.
@@ -35,3 +36,6 @@ Projectaannemers; portfolio en aanvraagflow versterken B2B-positie.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

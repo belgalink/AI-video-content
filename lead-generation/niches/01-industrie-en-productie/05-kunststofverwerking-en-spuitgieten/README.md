@@ -1,6 +1,7 @@
 # Niche 05 — Kunststofverwerking & spuitgieten
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technische maakindustrie; weinig marketingfocus, veel upsell-potentieel in systemen.
@@ -35,3 +36,6 @@ Technische maakindustrie; weinig marketingfocus, veel upsell-potentieel in syste
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

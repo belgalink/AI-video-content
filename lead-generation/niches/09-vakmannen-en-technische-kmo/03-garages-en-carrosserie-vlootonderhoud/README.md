@@ -1,6 +1,7 @@
 # Niche 71 — Garages & carrosserie (vlootonderhoud)
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 BelgaLink heeft al een garage-backend gebouwd; bewezen fit voor beheersystemen.
@@ -35,3 +36,6 @@ BelgaLink heeft al een garage-backend gebouwd; bewezen fit voor beheersystemen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

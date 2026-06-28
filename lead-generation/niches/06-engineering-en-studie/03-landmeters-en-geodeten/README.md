@@ -1,6 +1,7 @@
 # Niche 53 — Landmeters & geodeten
 
 **Categorie:** Engineering & studiebureaus
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technische B2B-niche; online aanvraag + dossierportaal versnellen de flow.
@@ -35,3 +36,6 @@ Technische B2B-niche; online aanvraag + dossierportaal versnellen de flow.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 39 — Brandbeveiliging & sprinklerinstallatie
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Wettelijk gedreven, contractueel; service-portaal en keuringbeheer lonen.
@@ -35,3 +36,6 @@ Wettelijk gedreven, contractueel; service-portaal en keuringbeheer lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

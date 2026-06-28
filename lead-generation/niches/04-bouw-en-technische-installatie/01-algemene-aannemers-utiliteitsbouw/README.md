@@ -1,6 +1,7 @@
 # Niche 25 — Algemene aannemers (utiliteitsbouw)
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Grotere ploegen, B2B-projecten; portfolio en aanvraagflow zijn directe omzetdrijvers.
@@ -35,3 +36,6 @@ Grotere ploegen, B2B-projecten; portfolio en aanvraagflow zijn directe omzetdrij
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

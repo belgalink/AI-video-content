@@ -1,6 +1,7 @@
 # Niche 59 — Telecom- & netwerkinstallatie
 
 **Categorie:** IT & tech
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 B2B-installateurs met contracten; service-portaal en CRM lonen.
@@ -35,3 +36,6 @@ B2B-installateurs met contracten; service-portaal en CRM lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

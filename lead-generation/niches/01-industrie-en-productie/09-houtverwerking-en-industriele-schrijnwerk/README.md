@@ -1,6 +1,7 @@
 # Niche 09 — Houtverwerking & industriële schrijnwerk
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Maakbedrijven met groeiende ploegen; visueel werk dat online sterk kan converteren.
@@ -35,3 +36,6 @@ Maakbedrijven met groeiende ploegen; visueel werk dat online sterk kan converter
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

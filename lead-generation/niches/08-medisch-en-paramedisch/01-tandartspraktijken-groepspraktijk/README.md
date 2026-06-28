@@ -1,6 +1,7 @@
 # Niche 62 — Tandartspraktijken (groepspraktijk)
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vanaf meerdere behandelaars; online afspraak + patiëntportaal verhogen instroom.
@@ -35,3 +36,6 @@ Vanaf meerdere behandelaars; online afspraak + patiëntportaal verhogen instroom
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

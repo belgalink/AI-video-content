@@ -1,6 +1,7 @@
 # Niche 11 — Technische groothandels (industriële toebehoren)
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Veel SKU's, B2B-klanten; ideale fit voor webshop + klantportaal + voorraad-BI.
@@ -35,3 +36,6 @@ Veel SKU's, B2B-klanten; ideale fit voor webshop + klantportaal + voorraad-BI.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

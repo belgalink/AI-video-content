@@ -1,6 +1,7 @@
 # Niche 43 — Verzekeringskantoren (halal-conform)
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Enkel halal-conforme makelaars; CRM + lead magnets voor offerteaanvragen.
@@ -35,3 +36,6 @@ Enkel halal-conforme makelaars; CRM + lead magnets voor offerteaanvragen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 02 — Metaalbewerking & verspaning (CNC)
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Onderaannemers met B2B-klanten die online betrouwbaar moeten ogen; offerteflow is vaak chaotisch.
@@ -35,3 +36,6 @@ Onderaannemers met B2B-klanten die online betrouwbaar moeten ogen; offerteflow i
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

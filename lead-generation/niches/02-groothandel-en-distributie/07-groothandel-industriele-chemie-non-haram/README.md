@@ -1,6 +1,7 @@
 # Niche 17 — Groothandel industriële chemie (non-haram)
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Halal-conform gefilterd; technische B2B-niche met dossier-/veiligheidsbeheer.
@@ -35,3 +36,6 @@ Halal-conform gefilterd; technische B2B-niche met dossier-/veiligheidsbeheer.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

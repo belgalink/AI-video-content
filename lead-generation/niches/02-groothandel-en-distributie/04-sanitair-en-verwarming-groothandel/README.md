@@ -1,6 +1,7 @@
 # Niche 14 — Sanitair & verwarming groothandel
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Loodgieters/HVAC als afnemers; offerte- en bestelsystemen besparen veel telefoonwerk.
@@ -35,3 +36,6 @@ Loodgieters/HVAC als afnemers; offerte- en bestelsystemen besparen veel telefoon
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

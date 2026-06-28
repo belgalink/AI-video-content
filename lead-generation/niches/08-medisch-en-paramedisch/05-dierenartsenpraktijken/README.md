@@ -1,6 +1,7 @@
 # Niche 66 — Dierenartsenpraktijken
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Door Diederick genoemd; online afspraak + klantportaal verhogen klantbinding.
@@ -35,3 +36,6 @@ Door Diederick genoemd; online afspraak + klantportaal verhogen klantbinding.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

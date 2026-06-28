@@ -1,6 +1,7 @@
 # Niche 01 — Machinebouw & industriële automatisering
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technische, kapitaalkrachtige KMO's; zaakvoerder vaak weinig digitaal-mee; sterke nood aan online geloofwaardigheid bij internationale klanten.
@@ -36,3 +37,6 @@ Technische, kapitaalkrachtige KMO's; zaakvoerder vaak weinig digitaal-mee; sterk
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

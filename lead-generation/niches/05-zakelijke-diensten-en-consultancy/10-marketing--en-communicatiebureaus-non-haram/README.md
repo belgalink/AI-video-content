@@ -1,6 +1,7 @@
 # Niche 50 — Marketing- & communicatiebureaus (non-haram)
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Digitaal-mature partners voor co-creatie; nood aan eigen sterke site + portaal.
@@ -35,3 +36,6 @@ Digitaal-mature partners voor co-creatie; nood aan eigen sterke site + portaal.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

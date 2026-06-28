@@ -1,6 +1,7 @@
 # Niche 69 — Schrijnwerkerijen & interieurbouw (maatwerk)
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Visueel maatwerk; portfolio + offerteconfigurator zijn sterke conversiehefbomen.
@@ -35,3 +36,6 @@ Visueel maatwerk; portfolio + offerteconfigurator zijn sterke conversiehefbomen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

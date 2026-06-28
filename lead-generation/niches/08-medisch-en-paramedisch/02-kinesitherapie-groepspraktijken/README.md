@@ -1,6 +1,7 @@
 # Niche 63 — Kinesitherapie-groepspraktijken
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Teampraktijken; online boeken en patiëntopvolging zijn directe verbeteringen.
@@ -35,3 +36,6 @@ Teampraktijken; online boeken en patiëntopvolging zijn directe verbeteringen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

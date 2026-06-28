@@ -1,6 +1,7 @@
 # Niche 75 — Drukkerijen & grafische bedrijven
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Door Diederick genoemd; online bestel-/offerteportaal verkort de salescyclus sterk.
@@ -35,3 +36,6 @@ Door Diederick genoemd; online bestel-/offerteportaal verkort de salescyclus ste
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

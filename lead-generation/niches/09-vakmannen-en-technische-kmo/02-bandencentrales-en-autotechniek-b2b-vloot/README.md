@@ -1,6 +1,7 @@
 # Niche 70 — Bandencentrales & autotechniek (B2B/vloot)
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vlootcontracten = terugkerende B2B-omzet; online afspraak en vlootbeheer lonen.
@@ -35,3 +36,6 @@ Vlootcontracten = terugkerende B2B-omzet; online afspraak en vlootbeheer lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 31 — Isolatiebedrijven
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Premiegedreven vraag; lead magnets (premie-/besparingscheck) werken sterk.
@@ -35,3 +36,6 @@ Premiegedreven vraag; lead magnets (premie-/besparingscheck) werken sterk.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 36 — Tuinaanleg & groenvoorziening (B2B)
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Grotere groenbedrijven met B2B-contracten; visueel werk converteert online sterk.
@@ -35,3 +36,6 @@ Grotere groenbedrijven met B2B-contracten; visueel werk converteert online sterk
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 10 — Technisch textiel & non-food textielproductie
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Halal-conforme productieniche; B2B-leveranciers met internationale ambities.
@@ -35,3 +36,6 @@ Halal-conforme productieniche; B2B-leveranciers met internationale ambities.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

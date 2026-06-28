@@ -1,6 +1,7 @@
 # Niche 03 — Lasbedrijven & staalconstructie
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Projectgedreven, groeiende ploegen; website matcht vaak niet met kwaliteit van het werk.
@@ -35,3 +36,6 @@ Projectgedreven, groeiende ploegen; website matcht vaak niet met kwaliteit van h
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 57 — IT-diensten & systeembeheer (MSP)
 
 **Categorie:** IT & tech
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Door Diederick genoemd; digitaal-mature klant, maar eigen site/portaal vaak verwaarloosd.
@@ -35,3 +36,6 @@ Door Diederick genoemd; digitaal-mature klant, maar eigen site/portaal vaak verw
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

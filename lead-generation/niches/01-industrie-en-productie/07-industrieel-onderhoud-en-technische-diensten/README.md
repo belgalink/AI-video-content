@@ -1,6 +1,7 @@
 # Niche 07 — Industrieel onderhoud & technische diensten
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Service-gedreven met terugkerende klanten; planning en interventiebeheer schreeuwen om software.
@@ -35,3 +36,6 @@ Service-gedreven met terugkerende klanten; planning en interventiebeheer schreeu
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 06 — Matrijzen- & gereedschapsbouw
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Hooggespecialiseerd, B2B-toeleverancier; sterke baat bij online vindbaarheid en cases.
@@ -35,3 +36,6 @@ Hooggespecialiseerd, B2B-toeleverancier; sterke baat bij online vindbaarheid en 
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 58 — Softwarebedrijven (kleine B2B SaaS)
 
 **Categorie:** IT & tech
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Co-creatie- en doorverwijspartners; sterke fit voor marketingsite + leadflow.
@@ -35,3 +36,6 @@ Co-creatie- en doorverwijspartners; sterke fit voor marketingsite + leadflow.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

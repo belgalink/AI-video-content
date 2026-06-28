@@ -1,6 +1,7 @@
 # Niche 73 — Gevel-, ruiten- & industriële reiniging
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Gespecialiseerde B2B-reiniging met contracten; online offerte en planning lonen.
@@ -35,3 +36,6 @@ Gespecialiseerde B2B-reiniging met contracten; online offerte en planning lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

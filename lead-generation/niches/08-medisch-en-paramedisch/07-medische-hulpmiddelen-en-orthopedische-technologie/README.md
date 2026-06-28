@@ -1,6 +1,7 @@
 # Niche 68 — Medische hulpmiddelen & orthopedische technologie
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 B2B-leveranciers met voorschriftflow; bestel- en dossierportaal lonen.
@@ -35,3 +36,6 @@ B2B-leveranciers met voorschriftflow; bestel- en dossierportaal lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

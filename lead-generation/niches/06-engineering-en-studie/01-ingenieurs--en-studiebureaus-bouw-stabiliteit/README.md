@@ -1,6 +1,7 @@
 # Niche 51 — Ingenieurs- & studiebureaus (bouw/stabiliteit)
 
 **Categorie:** Engineering & studiebureaus
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Door Diederick genoemd; technisch sterk maar online zwak — grote upsell in systemen.
@@ -35,3 +36,6 @@ Door Diederick genoemd; technisch sterk maar online zwak — grote upsell in sys
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 55 — Veiligheidscoördinatie & preventie
 
 **Categorie:** Engineering & studiebureaus
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Wettelijk gedreven B2B-dienst; dossier- en planningsoftware loont sterk.
@@ -35,3 +36,6 @@ Wettelijk gedreven B2B-dienst; dossier- en planningsoftware loont sterk.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 23 — Verhuisbedrijven (kantoor & B2B)
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Offerte-intensief; online intake en planning besparen veel tijd.
@@ -35,3 +36,6 @@ Offerte-intensief; online intake en planning besparen veel tijd.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

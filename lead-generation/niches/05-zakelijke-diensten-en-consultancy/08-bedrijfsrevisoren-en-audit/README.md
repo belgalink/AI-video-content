@@ -1,6 +1,7 @@
 # Niche 48 — Bedrijfsrevisoren & audit
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Hoogwaardige B2B-niche; autoriteit-website + portaal voor dossiers.
@@ -35,3 +36,6 @@ Hoogwaardige B2B-niche; autoriteit-website + portaal voor dossiers.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -1,6 +1,7 @@
 # Niche 65 — Medische labo's & beeldvorming
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 B2B/B2C-mix met verwijzers; resultaten- en afspraakportaal lonen.
@@ -35,3 +36,6 @@ B2B/B2C-mix met verwijzers; resultaten- en afspraakportaal lonen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

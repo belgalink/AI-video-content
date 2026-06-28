@@ -23,13 +23,38 @@ Elke `leads.csv` heeft daarnaast bron- en kwaliteitsvelden (`bron_url`, `kwalite
 `status`, `datum_gescrapet`, `notities`, `plaats`, `provincie`, `aantal_medewerkers`,
 `nace_code`).
 
+## Niches cureren (selecteren / schrappen / bijvoegen)
+
+De **enige plek waar je cureert** is `niches-master.csv`. Open het in Excel/Google Sheets
+of laat het mij aanpassen. Kolommen die ertoe doen:
+
+| Kolom | Wat je ermee doet |
+|---|---|
+| `status` | `kandidaat` (standaard), `goedgekeurd` (definitief geselecteerd) of `afgewezen` (niet benaderen) |
+| `prioriteit` | vrij veld, bv. `hoog` / `midden` / `laag` — bepaalt scrape-volgorde |
+| `niche`, `fit`, `upsell`, `zoektermen`, `nace` | inhoud van de niche |
+
+- **Selecteren** → zet `status` op `goedgekeurd` (of laat op `kandidaat`).
+- **Schrappen** → zet `status` op `afgewezen`, of verwijder de rij. Afgewezen niches krijgen **geen** map.
+- **Bijvoegen** → voeg een rij toe met het volgende `id`.
+
+Daarna `python3 lead-generation/build_niches.py` draaien → de mappen volgen automatisch je keuzes.
+Bestaande `leads.csv`-bestanden blijven altijd staan (worden nooit overschreven).
+
+> Standaard worden mappen aangemaakt voor status `kandidaat` én `goedgekeurd`. Wil je
+> uiteindelijk enkel nog de definitief geselecteerde niches genereren? Zet `GENERATE_STATUSES`
+> in `build_niches.py` op `{"goedgekeurd"}`.
+
+De 75 huidige niches zijn een **startpunt**: er komen er nog bij, en er wordt geschrapt.
+
 ## Structuur
 
 ```text
 lead-generation/
 ├── README.md                  ← dit bestand
-├── 00-niche-master-list.md    ← genummerde lijst van alle 75 niches
-├── build_niches.py            ← reproduceerbare generator
+├── niches-master.csv          ← BRONLIJST — hier cureer je
+├── 00-niche-master-list.md    ← leesbaar overzicht (auto-gegenereerd, status per niche)
+├── build_niches.py            ← reproduceerbare generator (leest de CSV)
 └── niches/
     ├── 01-industrie-en-productie/
     │   ├── 01-machinebouw-en-automatisering/

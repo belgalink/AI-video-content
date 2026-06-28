@@ -1,6 +1,7 @@
 # Niche 15 — Groothandel in machines & gereedschap
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technische verkoop; cases en specs online maken het verschil.
@@ -35,3 +36,6 @@ Technische verkoop; cases en specs online maken het verschil.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

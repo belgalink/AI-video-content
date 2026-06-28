@@ -1,6 +1,7 @@
 # Niche 24 — Internationale expeditie & douane
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Specialistische B2B-niche; vertrouwen en meertaligheid online wegen zwaar.
@@ -35,3 +36,6 @@ Specialistische B2B-niche; vertrouwen en meertaligheid online wegen zwaar.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

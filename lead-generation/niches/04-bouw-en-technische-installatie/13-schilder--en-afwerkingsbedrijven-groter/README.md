@@ -1,6 +1,7 @@
 # Niche 37 — Schilder- & afwerkingsbedrijven (groter)
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vanaf enkele ploegen; B2B/projectwerk met nood aan offerte- en planningsysteem.
@@ -35,3 +36,6 @@ Vanaf enkele ploegen; B2B/projectwerk met nood aan offerte- en planningsysteem.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

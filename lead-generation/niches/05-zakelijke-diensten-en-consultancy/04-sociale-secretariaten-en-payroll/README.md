@@ -1,6 +1,7 @@
 # Niche 44 — Sociale secretariaten & payroll
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 B2B-dienstverlening met portalen; sterke fit voor klant- en documentportaal.
@@ -35,3 +36,6 @@ B2B-dienstverlening met portalen; sterke fit voor klant- en documentportaal.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

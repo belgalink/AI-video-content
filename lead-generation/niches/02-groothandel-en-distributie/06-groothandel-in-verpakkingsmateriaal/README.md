@@ -1,6 +1,7 @@
 # Niche 16 — Groothandel in verpakkingsmateriaal
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Herhaalaankopen; webshop + herbestel-flow verhoogt omzet direct.
@@ -35,3 +36,6 @@ Herhaalaankopen; webshop + herbestel-flow verhoogt omzet direct.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

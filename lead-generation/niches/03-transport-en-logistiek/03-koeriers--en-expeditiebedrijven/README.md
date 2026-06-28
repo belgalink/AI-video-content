@@ -1,6 +1,7 @@
 # Niche 21 — Koeriers- & expeditiebedrijven
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Tijdkritisch; online boeken en opvolgen is een directe verkoophefboom.
@@ -35,3 +36,6 @@ Tijdkritisch; online boeken en opvolgen is een directe verkoophefboom.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

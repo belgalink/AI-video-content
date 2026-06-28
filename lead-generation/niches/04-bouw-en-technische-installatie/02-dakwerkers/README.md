@@ -1,6 +1,7 @@
 # Niche 26 — Dakwerkers
 
 **Categorie:** Bouw & technische installatie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Bestaande BelgaLink-asset (salespagina + cold-call offer); zaakvoerders weinig digitaal-mee.
@@ -35,3 +36,6 @@ Bestaande BelgaLink-asset (salespagina + cold-call offer); zaakvoerders weinig d
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

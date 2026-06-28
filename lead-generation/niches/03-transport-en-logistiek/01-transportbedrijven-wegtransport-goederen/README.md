@@ -1,6 +1,7 @@
 # Niche 19 — Transportbedrijven (wegtransport goederen)
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Operationeel zwaar; weinig marketing, veel nood aan klantportaal en track & trace.
@@ -35,3 +36,6 @@ Operationeel zwaar; weinig marketing, veel nood aan klantportaal en track & trac
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

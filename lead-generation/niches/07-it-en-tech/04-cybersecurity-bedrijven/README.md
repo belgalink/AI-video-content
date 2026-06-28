@@ -1,6 +1,7 @@
 # Niche 60 — Cybersecurity-bedrijven
 
 **Categorie:** IT & tech
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Vertrouwen + autoriteit cruciaal; lead magnets (security scan) werken sterk.
@@ -35,3 +36,6 @@ Vertrouwen + autoriteit cruciaal; lead magnets (security scan) werken sterk.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

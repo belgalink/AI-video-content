@@ -1,6 +1,7 @@
 # Niche 41 — Boekhoud- & accountancykantoren
 
 **Categorie:** Zakelijke diensten & consultancy
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Door Diederick genoemd; klantportalen en documentuitwisseling zijn een sterke upsell.
@@ -35,3 +36,6 @@ Door Diederick genoemd; klantportalen en documentuitwisseling zijn een sterke up
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

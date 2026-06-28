@@ -1,6 +1,7 @@
 # Niche 61 — Datacenters & hosting (kleinere spelers)
 
 **Categorie:** IT & tech
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Technisch B2B; klantportaal + statusdashboards zijn kernsystemen.
@@ -35,3 +36,6 @@ Technisch B2B; klantportaal + statusdashboards zijn kernsystemen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

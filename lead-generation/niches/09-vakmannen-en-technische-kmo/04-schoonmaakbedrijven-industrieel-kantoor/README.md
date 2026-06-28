@@ -1,6 +1,7 @@
 # Niche 72 — Schoonmaakbedrijven (industrieel/kantoor)
 
 **Categorie:** Vakmannen & technische KMO's (grotere teams)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Contractgedreven B2B; offerte- en planningsystemen besparen veel administratie.
@@ -35,3 +36,6 @@ Contractgedreven B2B; offerte- en planningsystemen besparen veel administratie.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

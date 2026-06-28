@@ -1,6 +1,7 @@
 # Niche 13 — Elektromateriaal groothandel
 
 **Categorie:** Groothandel & distributie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Installateurs als vaste klanten; sterke nood aan klantportaal en snelle bestelflow.
@@ -35,3 +36,6 @@ Installateurs als vaste klanten; sterke nood aan klantportaal en snelle bestelfl
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

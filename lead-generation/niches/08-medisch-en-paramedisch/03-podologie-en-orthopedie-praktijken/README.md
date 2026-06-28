@@ -1,6 +1,7 @@
 # Niche 64 — Podologie & orthopedie (praktijken)
 
 **Categorie:** Medisch & paramedisch (non-cosmetisch)
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Paramedische niche met afspraakflow; online boeken verhoogt instroom.
@@ -35,3 +36,6 @@ Paramedische niche met afspraakflow; online boeken verhoogt instroom.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

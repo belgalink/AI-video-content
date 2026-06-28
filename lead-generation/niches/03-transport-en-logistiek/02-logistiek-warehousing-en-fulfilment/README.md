@@ -1,6 +1,7 @@
 # Niche 20 — Logistiek, warehousing & fulfilment
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Schaalt snel; e-commerceklanten verwachten dashboards en API-koppelingen.
@@ -35,3 +36,6 @@ Schaalt snel; e-commerceklanten verwachten dashboards en API-koppelingen.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

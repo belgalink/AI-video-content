@@ -1,6 +1,7 @@
 # Niche 22 — Containerverhuur & afvalcontainers
 
 **Categorie:** Transport & logistiek
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Lokale B2B/B2C-mix; online container bestellen verlaagt telefoondruk fors.
@@ -35,3 +36,6 @@ Lokale B2B/B2C-mix; online container bestellen verlaagt telefoondruk fors.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

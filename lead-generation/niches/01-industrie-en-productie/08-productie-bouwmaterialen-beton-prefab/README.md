@@ -1,6 +1,7 @@
 # Niche 08 — Productie bouwmaterialen (beton, prefab)
 
 **Categorie:** Industrie & productie
+**Status:** kandidaat · **Prioriteit:** —
 
 ## Waarom deze niche past bij BelgaLink
 Zware industrie met B2B-afnemers; vaak verouderde online aanwezigheid.
@@ -35,3 +36,6 @@ Zware industrie met B2B-afnemers; vaak verouderde online aanwezigheid.
 
 *Kwaliteitsfilter: enkel halal-conforme bedrijven (geen alcohol, varkensvlees, gokken,
 interest-/woekerproducten). Bij twijfel: niet opnemen of voorleggen aan de oprichters.*
+
+---
+*Gegenereerd uit `niches-master.csv` — bewerk daar, niet hier.*

@@ -10,8 +10,8 @@ BelgaLink praat tegen Jorn (Vlaamse KMO-zaakvoerder, 37, druk, wantrouwig door s
 
 Een consistent, herkenbaar mascot-personage lost drie problemen op:
 
-1. **Pattern interrupt.** Een chubby claymation-bouwertje in een feed vol talking-heads = onmiddellijke stop.
-2. **Anti-AI-signaal.** Handgemaakte klei-look voelt fysiek en menselijk, precies waar gepolijste AI-video's falen (zie €100-flop, sectie 9 van de content-briefing).
+1. **Pattern interrupt.** Een chibi vinyl designer-toy zakenmannetje in een feed vol talking-heads = onmiddellijke stop.
+2. **Anti-AI-signaal.** De speelgoed-look voelt fysiek en tastbaar, precies waar gepolijste AI-video's falen (zie €100-flop, sectie 9 van de content-briefing).
 3. **Recall + owned IP.** Eén karakter dat elke video terugkomt → merk plakt. We bouwen mascotte-equity in plaats van steeds nieuwe faces.
 
 ---
@@ -32,11 +32,11 @@ Alternatieven om te overwegen: **Bouwie**, **Bo**, **Blok**, **Linko**.
 
 ## 3. Archetype & rol
 
-- **Archetype:** klein chubby bouwertje-robotje. Hij *bouwt* dingen — bij ons dus websites.
+- **Archetype:** chibi vinyl designer-toy zakenman. Hij is het gezicht van BelgaLink — begeleidbaar, professioneel, herkenbaar.
 - **Rol in content:**
   - **Uitleg-mascotte** — legt concepten uit ("wat kost een website?", "zelf bouwen vs laten bouwen?"), wijst naar dingen op scherm, doet visuele beats.
   - **Hero-mascotte** — kan zelf de video dragen zonder mens ernaast. Hij is de narrator.
-- **Wat hij NIET is:** een verkoper, een clown, een schattig knuffeldier. Hij is een **competent, warm, nuchter bouwertje** — spiegelt de BelgaLink-toon: professioneel maar geen jargon.
+- **Wat hij NIET is:** een verkoper, een clown, een schattig knuffeldier. Hij is een **competent, warm, nuchter zakenman** — spiegelt de BelgaLink-toon: professioneel maar geen jargon.
 
 ---
 
@@ -54,24 +54,25 @@ Alternatieven om te overwegen: **Bouwie**, **Bo**, **Blok**, **Linko**.
 
 ---
 
-## 5. Vorm & silhouet ("qubie/chubby")
+## 5. Vorm & silhouet (chibi vinyl toy)
 
-- **Proportie:** groot hoofd (~40% van totale hoogte), kort compact lichaam, korte armpjes/beentjes. Silhouet moet herkenbaar zijn in 32×32 px.
-- **Vormtaal:** kubisch met sterk afgeronde hoeken. Geen scherpe randen. Denk aan een afgeronde LEGO-brick, niet een robot uit een sci-fi-film.
-- **Kubische ledematen:** blokvormige handjes (geen vingers of vier korte "worstjes"), blokvormige voetjes. Behoud altijd de "qubie"-uitstraling — armen mogen niet lang of dun worden.
-- **Kop:** vierkant/kubisch met vloeiende hoeken. Antenne of hard-hat als accessoire (optioneel per pose, niet standaard). Ogen zijn twee eenvoudige zwarte punten of ronde LED's — geen wenkbrauwen, geen mond in default (mond verschijnt alleen bij "praten"-expressies).
-- **Geen:** benen die uitsteken onder een torso (moet compact zijn), gedetailleerde robot-onderdelen, tandwielen, schroeven-die-je-ziet, glossy plastic.
+- **Proportie:** groot oversized hoofd (~45% van totale hoogte), kort compact lichaam, korte armpjes/beentjes. Silhouet moet herkenbaar zijn in 32×32 px. Pop Mart / Funko Pop stijl.
+- **Vormtaal:** ronde, zachte vormen. Geen scherpe randen. Denk aan een designer vinyl collectible.
+- **Ledematen:** kleine zachte handjes, compacte voetjes. Behoud altijd de chibi-proportie — armen mogen niet lang of dun worden.
+- **Kop:** groot, rond, met low-poly gefacetteerd bruin haar. Glossy zwarte dot-ogen met catchlights, roze wangetjes, warme glimlach.
+- **Outfit:** BelgaLink-blauw (#2A5BF5) blazer, wit overhemd, navy (#0D1B4B) stropdas, donkere broek, zwarte schoenen.
+- **Logo:** ronde witte emaille lapel pin op de linkerborst met het **exacte** BelgaLink B-logo. Het logo mag NIET door AI worden hergeïnterpreteerd — gebruik altijd het originele favicon als referentie.
 
 ---
 
-## 6. Materiaal & finish (dit is de anti-AI-hendel)
+## 6. Materiaal & finish
 
-**Doel: het moet aanvoelen als klei/plasticine, met de hand gemaakt, warm.**
+**Doel: het moet aanvoelen als een echt vinyl designer-speelgoedfiguurtje, tastbaar en collectible.**
 
-- **Textuur:** matte plasticine/klei-oppervlak. Subtiele vingerafdrukken, minieme oneffenheden, lichte glans alleen waar klei natuurlijk glimt (topvlakken onder licht).
-- **Licht:** zacht studiolicht van boven-links, warme fill van rechts, zachte schaduw onder. Geen harde spots, geen dramatische rim-light.
-- **Achtergrond bij concepts/refs:** effen off-white (#F5F6F8) of zeer licht blauw-grijs (#E6EDFF-tint), zodat het karakter los te snijden is voor animatie.
-- **NIET:** glossy vinyl-toy plastic, chroom, glassmorphism, metaal-shading, PBR "AI-glossy" look, dramatische neonverlichting.
+- **Textuur:** smooth matte vinyl oppervlak, zoals een Pop Mart of Funko Pop figuur. Het haar is low-poly gefacetteerd (geometrische vlakken).
+- **Licht:** zacht studiolicht, clean en helder. Zachte schaduw onder het figuurtje.
+- **Achtergrond bij concepts/refs:** effen wit of zeer licht blauw-grijs (#E6EDFF-tint), zodat het karakter los te snijden is voor animatie.
+- **NIET:** claymation/klei-look, chroom, glassmorphism, metaal-shading, PBR "AI-glossy" look, dramatische neonverlichting.
 
 ---
 
@@ -91,16 +92,16 @@ Alleen uit het BelgaLink-palet:
 
 ---
 
-## 8. Bouwer-attributen (subtiel, herkenbaar)
+## 8. Accessoires (subtiel, herkenbaar)
 
-Kies **maximaal één** attribuut per pose zodat het silhouet clean blijft:
+Kies **maximaal één** accessoire per pose zodat het silhouet clean blijft:
 
-- Klein zacht bouwvakhelmpje (navy) — voor "aan het werk"-poses.
-- Toolbelt met één simpel gereedschap (moersleutel of hamertje in navy) — voor "bouw"-poses.
-- Klein klembord/tablet met blauw-tint scherm — voor "uitleg"-poses.
-- Kleine antenne of LED bovenop het hoofd — subtiel "digital" signaal.
+- Kleine laptop — voor "werkend"-poses.
+- Wijzende vinger — voor "uitleg"-poses.
+- Duim omhoog — voor "goedkeuring"-poses.
+- BelgaLink B lapel pin — altijd aanwezig op het blazer.
 
-**Default pose = zonder attribuut**, zodat hij inzetbaar blijft in elk verhaal.
+**Default pose = staand met armen langs lichaam**, zodat hij inzetbaar blijft in elk verhaal.
 
 ---
 
@@ -131,18 +132,18 @@ Voor de reference-sheet leveren we minimaal:
 ## 10. Do's & Don'ts
 
 **Do**
-- Handgemaakte klei-look, matte textuur.
+- Vinyl designer-toy look (Pop Mart / Funko Pop stijl).
+- Low-poly gefacetteerd bruin haar.
 - Consistente brand-kleuren.
 - Eén helder silhouet, herkenbaar op klein formaat.
+- Exacte BelgaLink B-logo als lapel pin (NIET AI-geherinterpreteerd).
 - Warme, zachte belichting.
-- Menselijke micro-oneffenheden (vingerafdrukken, kleine dellen).
 
 **Don't**
 - Emoji-uitdrukkingen (geen "😀"-gezichten), geen 😂 of overdreven cartoon-mimiek.
-- Glossy vinyl / plastic-shine (voelt AI en fake).
+- Claymation / klei-look (eerder getest, niet gekozen).
 - Extra kleuren buiten palet.
-- Wapenachtig gereedschap, "hard hat safety helmet decals", industriële textuur.
-- Menselijke haren, wimpers, wenkbrauwen (hij is een robot-klei-figuurtje, geen mens).
+- Het B-logo laten herwerken door AI — altijd het exacte favicon gebruiken als referentie.
 - Vrouwelijke of "gender-coded" kenmerken (past niet bij het waarden-kader).
 
 ---

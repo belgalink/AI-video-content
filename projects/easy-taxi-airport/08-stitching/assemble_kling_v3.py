@@ -4,13 +4,13 @@ ROOT="/home/user/AI-video-content/projects/easy-taxi-airport"
 CL=f"{ROOT}/07-transition-videos/approved/kling-v2"; OUT=f"{ROOT}/09-final-output"
 TMP="/tmp/asmk3"; os.makedirs(TMP,exist_ok=True)
 # New order: approach, handle-handover, trunk, highway, HANDSHAKE(house), ARRIVAL(hero). (file,start,dur)
-CLIPS=[(f"{CL}/shot1.mp4",0.8,2.0),      # approach + greet
-       (f"{CL}/shot2n.mp4",0.6,2.1),     # handover via extended handle
-       (f"{CL}/shot3n.mp4",0.8,2.0),     # into normal trunk
-       (f"{CL}/shot4.mp4",0.4,1.5),      # highway
-       (f"{CL}/shot6n.mp4",0.8,2.3),     # handshake at house
-       (f"{CL}/shot5.mp4",0.6,2.0)]      # arrival / parked hero
-ENDCARD=f"{OUT}/attempts/endcard.png"; ED=3.0; W,H,FPS=1080,1920,30
+CLIPS=[(f"{CL}/shot1.mp4",0.9,1.6),      # approach + greet
+       (f"{CL}/shot2n.mp4",0.7,2.0),     # handover via extended handle (give it room to read)
+       (f"{CL}/shot3n.mp4",0.9,1.7),     # into normal trunk
+       (f"{CL}/shot4.mp4",0.4,1.3),      # highway
+       (f"{CL}/shot6n.mp4",0.9,1.9),     # handshake at house
+       (f"{CL}/shot5.mp4",0.7,1.6)]      # arrival / parked hero
+ENDCARD=f"{OUT}/attempts/endcard.png"; ED=2.7; W,H,FPS=1080,1920,30
 def run(c): subprocess.run(c,check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
 segs=[]
 for i,(f,ss,dur) in enumerate(CLIPS):

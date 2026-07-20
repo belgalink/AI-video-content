@@ -8,7 +8,7 @@ LOGO=f"{ROOT}/02-references/approved/brand/easytaxi-logo-rgba.png"
 TMP="/tmp/asmk5"; os.makedirs(TMP,exist_ok=True)
 W,H,FPS=1080,1920,30
 # order: approach(car still), handle-handover(soft smile), estate-boot(v4), highway(v4), handshake(new decor), arrival(new decor)
-CLIPS=[(f"{V5}/shot1.mp4",0.8,1.9),(f"{V5}/shot2.mp4",0.7,1.9),(f"{V4}/shot3.mp4",0.9,1.7),
+CLIPS=[(f"{V5}/shot1.mp4",2.0,2.1),(f"{V5}/shot2.mp4",0.7,1.9),(f"{V4}/shot3.mp4",0.9,1.7),
        (f"{V4}/shot4.mp4",0.4,1.3),(f"{V5}/shot5.mp4",0.9,1.9),(f"{V5}/shot6.mp4",0.6,1.7)]
 ENDCARD=f"{OUT}/attempts/endcard_stacked.png"; ED=3.0
 def run(c): subprocess.run(c,check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)

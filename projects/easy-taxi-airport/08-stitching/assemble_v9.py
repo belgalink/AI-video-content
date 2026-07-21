@@ -14,7 +14,7 @@ W,H,FPS=1080,1920,30
 def run(c): subprocess.run(c,check=True,stdout=subprocess.DEVNULL,stderr=subprocess.PIPE)
 
 # Final dialogue reference mixes we already built (same audio used to DRIVE Seedance's lip motion)
-DLG1=f"{ROOT}/../../../tmp/asmv9/scene1_dialogue_ref.wav" if False else "/tmp/asmv9/scene1_dialogue_ref.wav"
+DLG1="/tmp/asmv9/scene1_dialogue_ref.wav"
 DLG5="/tmp/asmv9/scene5_dialogue_ref.wav"
 
 def video_with_logo(src_video, ss, dur, out_video_only):
@@ -22,6 +22,10 @@ def video_with_logo(src_video, ss, dur, out_video_only):
         f"[1:v]scale=300:-2[lg];[b][lg]overlay=44:70,format=yuv420p[v]")
     run([FF,"-y","-ss",str(ss),"-t",str(dur),"-i",src_video,"-i",LOGO,"-filter_complex",fc,
          "-map","[v]","-an","-c:v","libx264","-preset","medium","-crf","18","-r",str(FPS),out_video_only])
+
+def mux(video_only, audio_wav, out, dur):
+    run([FF,"-y","-i",video_only,"-i",audio_wav,"-t",str(dur),
+         "-c:v","copy","-c:a","aac","-b:a","160k","-ar","48000","-ac","2","-shortest",out])
 
 # --- Build each scene's AUDIO at natural, matched levels (no per-segment fade-to-silence) ---
 # Ambient beds: extracted from the corresponding real-sound clip, at a level close to native ambient
@@ -41,14 +45,24 @@ a4=f"{TMP}/a4.wav"
 run([FF,"-y","-i",bed_street,"-i",DLG5,"-filter_complex",
      "[0:a][1:a]amix=inputs=2:normalize=0:duration=first[aout]","-map","[aout]","-ar","44100","-ac","2",a4])
 
-# Non-dialogue scenes: use their own native ambient audio, trimmed, level untouched (no fade to silence)
-def native_audio(src, ss, dur, out):
-    run([FF,"-y","-i",src,"-ss",str(ss),"-t",str(dur),"-vn","-ar","44100","-ac","2",out])
+# Non-dialogue scenes: use their own native ambient audio, trimmed, with only tiny anti-click fades
+# (NOT loudness crossfades) so hard cuts between scenes don't pop.
+# NOTE: trim + afade MUST be two separate ffmpeg passes -- combining -ss/-t and afade in one
+# filter graph triggered a ffmpeg quirk that silently crushed the mean level by >10dB on some
+# clips (reproduced on shot3/shot6 1.7s windows), which is very likely the real cause of the
+# "dead air between scenes" complaint, not just a perceptual loudness-mismatch issue.
+def native_audio(src, ss, dur, out, extra_gain_db=0.0):
+    trimmed=out+".trim.wav"
+    run([FF,"-y","-i",src,"-ss",str(ss),"-t",str(dur),"-vn","-ar","44100","-ac","2",trimmed])
+    fade_out_st = max(0.0, dur-0.06)
+    af=f"afade=t=in:st=0:d=0.05,afade=t=out:st={fade_out_st:.2f}:d=0.06"
+    if extra_gain_db: af=f"volume={extra_gain_db}dB,"+af
+    run([FF,"-y","-i",trimmed,"-af",af,out])
 
 a1=f"{TMP}/a1.wav"; native_audio(f"{V8}/shot2.mp4",0.7,2.4,a1)
 a2=f"{TMP}/a2.wav"; native_audio(f"{V8}/shot3.mp4",0.9,1.7,a2)
 a3=f"{TMP}/a3.wav"; native_audio(f"{V6}/shot4.mp4",0.4,1.3,a3)
-a5=f"{TMP}/a5.wav"; native_audio(f"{V6}/shot6.mp4",0.6,1.7,a5)
+a5=f"{TMP}/a5.wav"; native_audio(f"{V6}/shot6.mp4",0.6,1.7,a5,extra_gain_db=27.0)  # source is inherently near-silent
 
 # --- Video segments (video-only, logo overlaid) ---
 v0=f"{TMP}/v0.mp4"; video_with_logo(f"{V9}/scene1.mp4",0.0,4.9,v0)
@@ -62,44 +76,27 @@ VIDEOS=[v0,v1,v2,v3,v4,v5]
 AUDIOS=[a0,a1,a2,a3,a4,a5]
 DURS  =[4.9,2.4,1.7,1.3,4.0,1.7]
 
-# --- Concat all scene videos (video-only) ---
-vlst=f"{TMP}/vlist.txt"; open(vlst,"w").write("".join(f"file '{v}'\n" for v in VIDEOS))
-base_video=f"{TMP}/base_video.mp4"
-run([FF,"-y","-f","concat","-safe","0","-i",vlst,"-c","copy",base_video])
+# --- Mux each scene's video+audio, then hard-concat all segments (proven-reliable approach) ---
+segs=[]
+for i,(v,a,d) in enumerate(zip(VIDEOS,AUDIOS,DURS)):
+    s=f"{TMP}/seg{i}.mp4"; mux(v,a,s,d); segs.append(s)
 
-# --- Build ONE continuous audio track with short crossfades between every consecutive scene ---
-# Chain acrossfade progressively: ((a0 X a1) X a2) X a3 ... to avoid any hard-cut "seam".
-XF=0.18  # 180ms crossfade
-cur=AUDIOS[0]
-for i in range(1,len(AUDIOS)):
-    nxt=f"{TMP}/xf_{i}.wav"
-    run([FF,"-y","-i",cur,"-i",AUDIOS[i],"-filter_complex",
-         f"[0:a][1:a]acrossfade=d={XF}:c1=tri:c2=tri[aout]",
-         "-map","[aout]","-ar","44100","-ac","2",nxt])
-    cur=nxt
-continuous_audio=cur
-
-# --- Endcards (append after main audio, silent) ---
+# --- Endcards (silent) ---
 ED1=3.0
-eo1v=f"{TMP}/end1.mp4"
-run([FF,"-y","-loop","1","-t",str(ED1),"-i",ENDCARD1,"-f","lavfi","-t",str(ED1),"-i","anullsrc=r=44100:cl=stereo",
+eo1=f"{TMP}/end1.mp4"
+run([FF,"-y","-loop","1","-t",str(ED1),"-i",ENDCARD1,"-f","lavfi","-t",str(ED1),"-i","anullsrc=r=48000:cl=stereo",
      "-vf",f"scale={W}:{H},fps={FPS},format=yuv420p","-c:v","libx264","-preset","medium","-crf","18",
-     "-r",str(FPS),"-c:a","aac","-b:a","160k","-ar","48000","-ac","2","-shortest",eo1v])
+     "-r",str(FPS),"-c:a","aac","-b:a","160k","-ar","48000","-ac","2","-shortest",eo1]); segs.append(eo1)
 
 ED2=3.5
-eo2v=f"{TMP}/end2.mp4"
-run([FF,"-y","-loop","1","-t",str(ED2),"-i",ENDCARD2,"-f","lavfi","-t",str(ED2),"-i","anullsrc=r=44100:cl=stereo",
+eo2=f"{TMP}/end2.mp4"
+run([FF,"-y","-loop","1","-t",str(ED2),"-i",ENDCARD2,"-f","lavfi","-t",str(ED2),"-i","anullsrc=r=48000:cl=stereo",
      "-vf",f"scale={W}:{H},fps={FPS},format=yuv420p","-c:v","libx264","-preset","medium","-crf","18",
-     "-r",str(FPS),"-c:a","aac","-b:a","160k","-ar","48000","-ac","2","-shortest",eo2v])
+     "-r",str(FPS),"-c:a","aac","-b:a","160k","-ar","48000","-ac","2","-shortest",eo2]); segs.append(eo2)
 
-# Mux base_video + continuous_audio (trim audio to exact video duration, small crossfade shortens total a bit)
-main_out=f"{TMP}/main.mp4"
-run([FF,"-y","-i",base_video,"-i",continuous_audio,"-c:v","copy","-c:a","aac","-b:a","160k",
-     "-ar","48000","-ac","2","-shortest",main_out])
-
-# Final concat: main + endcard1 + endcard2 (re-encode to guarantee matching params)
+# --- Final concat: all 6 scenes + 2 endcards (re-encode to guarantee matching params) ---
 lst=f"{TMP}/final_list.txt"
-open(lst,"w").write(f"file '{main_out}'\nfile '{eo1v}'\nfile '{eo2v}'\n")
+open(lst,"w").write("".join(f"file '{s}'\n" for s in segs))
 out=f"{OUT}/easy-taxi-belgium-ad-9x16.mp4"
 run([FF,"-y","-f","concat","-safe","0","-i",lst,"-c:v","libx264","-preset","slow","-crf","18",
      "-pix_fmt","yuv420p","-c:a","aac","-b:a","160k","-movflags","+faststart",out])
